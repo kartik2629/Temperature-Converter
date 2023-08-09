@@ -1,14 +1,13 @@
-# Calculator
-# Unique Calculator App for Android
+# Temperature Converter App
 
+![Temperature Converter App Screenshot](screenshot.png)
 
-
-Welcome to the Unique Calculator App for Android! This calculator app is designed with a distinct and user-friendly interface to provide you with a seamless calculation experience. With basic arithmetic functions such as addition, subtraction, multiplication, and division, this app is a handy tool for your everyday calculation needs.
+Welcome to the Temperature Converter App! This app allows you to easily convert temperatures between different units, including Celsius, Fahrenheit, and Kelvin. Whether you're traveling abroad or just curious, this app is a handy tool for quick temperature conversions.
 
 ## Features
 
-- **Unique User Interface:** Our calculator app stands out with its one-of-a-kind user interface, making calculations not only efficient but also visually appealing.
+- **Simple and Intuitive:** The Temperature Converter App provides a straightforward user interface, making temperature conversion a breeze for users of all levels.
 
-- **Basic Arithmetic Operations:** Perform fundamental calculations, including addition, subtraction, multiplication, and division, with just a few taps.
+- **Multiple Unit Options:** Convert temperatures between Celsius, Fahrenheit, and Kelvin units with just a few taps.
 
-- **Easy-to-Use:** The intuitive design ensures that even users new to the app can quickly grasp its functionality and start calculating.
+- **Instant Conversion:** As you input a value in one unit, the app instantly displays the equivalent temperature in the selected unit, providing you with real-time results.
