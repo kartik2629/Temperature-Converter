@@ -12,9 +12,3 @@ Welcome to the Unique Calculator App for Android! This calculator app is designe
 - **Basic Arithmetic Operations:** Perform fundamental calculations, including addition, subtraction, multiplication, and division, with just a few taps.
 
 - **Easy-to-Use:** The intuitive design ensures that even users new to the app can quickly grasp its functionality and start calculating.
-
-## Getting Started
-
-To use the Unique Calculator App on your Android device, follow these steps:
-
-1. **Clone the Repository:** Start by cloning this repository to your local machine using the following command:
