@@ -1,6 +1,6 @@
 # Temperature Converter App
 
-![Temperature Converter App Screenshot](screenshot.png)
+
 
 Welcome to the Temperature Converter App! This app allows you to easily convert temperatures between different units, including Celsius, Fahrenheit, and Kelvin. Whether you're traveling abroad or just curious, this app is a handy tool for quick temperature conversions.
 
